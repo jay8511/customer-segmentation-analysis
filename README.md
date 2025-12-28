@@ -1,40 +1,27 @@
-# Customer Segmentation Analysis
+Customer Segmentation Analysis
 
-## 📌 Project Overview
-This project focuses on analyzing customer purchase behavior and segmenting customers into meaningful groups based on age and spending patterns. The goal is to generate business insights that help improve customer targeting and decision-making.
+Project Overview  
+This project focuses on analyzing customer purchase behavior and segmenting customers based on age and spending patterns. The aim is to understand how different customer groups contribute to overall business performance.
 
-## 🎯 Objectives
-- Understand customer purchasing behavior
-- Segment customers based on demographic and spending data
-- Identify high-value customer groups
-- Support business decisions using data-driven insights
+Objectives  
+The main objective of this project is to analyze customer data, identify meaningful customer segments, and generate insights that can help businesses make better decisions.
 
-## 🛠 Tools & Technologies
-- SQL (Data extraction and analysis)
-- Power BI (Dashboard and visualizations)
-- Excel (Basic data cleaning)
+Tools and Technologies  
+SQL was used for data extraction and analysis.  
+Power BI was used to create the dashboard and visualizations.  
+Excel was used for basic data cleaning.
 
-## 📊 Key Analysis Performed
-- Customer age group classification
-- Total customer count analysis
-- Average purchase amount calculation
-- Spending behavior analysis across customer segments
+Analysis Performed  
+Customer data was analyzed to calculate total customers and average purchase amount.  
+Customers were grouped into age categories to study spending behavior.  
+Spending patterns were compared across different customer segments.
 
-## 📈 Dashboard Features
-- KPI cards for Total Customers and Average Purchase Amount
-- Visual comparison of spending by age group
-- Customer segmentation visuals
-- Interactive filters for better analysis
+Dashboard  
+An interactive Power BI dashboard was created to display key metrics such as total customers, average purchase amount, and spending behavior by age group. Filters were added to allow better analysis.
 
-## 🔍 Key Insights
-- Middle-age customer groups show higher spending patterns
-- Certain customer segments contribute more to overall revenue
-- Customer segmentation helps businesses focus on profitable customers
+Key Insights  
+Middle-age customer groups show higher spending patterns compared to other age groups.  
+Customer segmentation helps identify high-value customers.
 
-## 📁 Project Files
-- SQL queries for data analysis
-- Power BI dashboard (PDF)
-- Project report documenting analysis and insights
-
-## ✅ Conclusion
-This project demonstrates an end-to-end data analytics workflow using SQL and Power BI, from data analysis to visualization and insight generation. The findings can help businesses improve marketing strategies and customer engagement.
+Conclusion  
+This project demonstrates an end-to-end data analysis process using SQL and Power BI, from data analysis to dashboard creation and insight generation.
